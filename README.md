@@ -3,7 +3,7 @@
 
 
 # Modules
-- [ ] [org.diorite.utils:commons (Diorite Utils - Commons)](#Diorite_Utils_-_Commons)
+- [ ] [org.diorite.utils:commons (Diorite Utils - Commons)](#Diorite-Utils---Commons)
 - [ ] [org.diorite.utils:commons (Diorite Utils - Commons)](#test)
 
 ```
